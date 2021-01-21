@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776962440142",
+    "project_id": "smart-wallet-a0b0b",
+    "storage_bucket": "smart-wallet-a0b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776962440142:android:6447731d94e16ad9d4499f",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776962440142-g9bm8rkcc4osa60nccb348qvmfooh9pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP-xmbtUzUPE0DfdasaXGx6Bhbf7NNC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776962440142-g9bm8rkcc4osa60nccb348qvmfooh9pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
